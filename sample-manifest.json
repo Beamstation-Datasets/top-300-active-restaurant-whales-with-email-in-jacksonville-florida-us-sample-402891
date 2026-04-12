@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f0b14d9c-b8d8-4ade-b662-b6b026414ec7",
+  "id_short": 402891,
+  "published_at": "2026-04-12T19:04:17Z",
+  "repo_name": "top-300-active-restaurant-whales-with-email-in-jacksonville-florida-us-sample-402891",
+  "sample_asset_name": "beamstation_402891_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/402891/beamstation_402891_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_records": 30,
+  "sample_sha256": "8dcddd756506db7d11b582f73bc6d50db977af9ac3e701935b86d6a60139d123",
+  "sample_size_bytes": 146477,
+  "total_records": 300
+}
