@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
   "config_name": "Top 300 Active Restaurant Whales with Email in Jacksonville, Florida, US",
-  "export_job_id": "f0b14d9c-b8d8-4ade-b662-b6b026414ec7",
+  "export_job_id": "05e4a67d-d0f1-4fd8-b437-381c4a7387b1",
   "github_org": "Beamstation-Datasets",
   "id_short": 402891,
   "location_name": "Jacksonville",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/402891/beamstation_402891_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
   "sample_records": 30,
-  "sample_sha256": "8dcddd756506db7d11b582f73bc6d50db977af9ac3e701935b86d6a60139d123",
-  "sample_size_bytes": 146477,
+  "sample_sha256": "482fcc2a91d3e7e846c471949ad5248761416366cff651f88b6ab663bcd49cfb",
+  "sample_size_bytes": 135536,
   "total_records": 300,
-  "updated_at": "2026-04-07T17:45:51.940382+00:00"
+  "updated_at": "2026-04-14T23:16:18.441216+00:00"
 }
