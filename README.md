@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 300 records |
 | Free sample size | 30 records (10.0%) |
-| Last export | 2026-04-07T17:45:51.940382+00:00 |
+| Last export | 2026-04-14T23:16:18.441216+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-jacksonville-florida-us-sample-402891/releases/download/sample-latest/beamstation_402891_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
