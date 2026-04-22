@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in Jacksonville, Florida, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `402891` |
 | Location | Jacksonville |
 | Category | Restaurants |
-| Full dataset size | 300 records |
-| Free sample size | 30 records (10.0%) |
-| Last export | 2026-04-14T23:16:18.441216+00:00 |
+| Full dataset size | 55 records |
+| Free sample size | 5 records (9.09%) |
+| Last export | 2026-04-22T02:39:30.977172+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-jacksonville-florida-us-sample-402891/releases/download/sample-latest/beamstation_402891_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
